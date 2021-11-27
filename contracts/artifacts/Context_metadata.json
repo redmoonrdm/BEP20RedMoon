@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/RedMoon.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/RedMoon.sol": {
+			"keccak256": "0x37b128025a0503e874a7877e2f87977b43daf0b3bc7a34c44f7ec457c37d8333",
+			"urls": [
+				"bzz-raw://bcc7efdad84efa61159235def40324d4bf0f43ba79f203c1fe5afdad38b9fafa",
+				"dweb:/ipfs/QmcfkUytJvfASocUaBSsXVXYcvNWyaYC2RTedrzNLsi7ke"
+			]
+		}
+	},
+	"version": 1
+}
